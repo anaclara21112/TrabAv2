@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     <html>
       <head><title>Início</title></head>
       <body>
-        <h1>Bem-vindo à página inicial!</h1>
+        <h1>Bem-vindo à nossa página inicial!</h1>
         <a href="/sobre">Sobre</a> | <a href="/contato">Contato</a>
       </body>
     </html>
